@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://www.frontendmentor.io/solutions/responsive-component-using-html-and-css-8wCF7V_3Al)
-- Live Site URL: [](https://product-preview-card-component-one-omega.vercel.app/)
+- Solution URL: [live](https://www.frontendmentor.io/solutions/responsive-component-using-html-and-css-8wCF7V_3Al)
+- Live Site URL: [live](https://product-preview-card-component-one-omega.vercel.app/)
 
 ### Built with
 
