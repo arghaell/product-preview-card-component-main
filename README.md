@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [](https://www.frontendmentor.io/solutions/responsive-component-using-html-and-css-8wCF7V_3Al)
+- Live Site URL: [](https://product-preview-card-component-one-omega.vercel.app/)
 
 ### Built with
 
@@ -41,5 +41,5 @@ Users should be able to:
 
 ### Author
 
-- Website - [Raphael Argollo](https://github.com/arghaell)
-- Frontend Mentor - [@arghaell](https://www.frontendmentor.io/profile/arghaell)
+- Website - [Raphael Argollo] (https://github.com/arghaell)
+- Frontend Mentor - [@arghaell] (https://www.frontendmentor.io/profile/arghaell)
